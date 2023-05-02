@@ -4,7 +4,7 @@ As a research scientist with expertise in Optimization, Operations Research (OR)
 
 On this GitHub account, I store any piece of code solving problems related to Optimization, OR, and Astrodynamics, whether it be original work or developed from other researchers' work. The focus is specifically given to problems whose solutions can help push the boundaries of Space Logistics.
 
-My goal is to make publicly available repositories that other researchers can use in their own research projects without having to implement the code themselves. To this end, I make sure to write high-quality code using state-of-the-art methodologies and technologies, testing it against the literature for validation and documenting it as much as possible. Anyone is free to contribute to the projects if the proposed changes improve speed and/or accuracy.
+My goal is to make publicly available repositories that other researchers can use in their own research projects without having to implement the code themselves. To this end, I make sure to write high-quality code using state-of-the-art methodologies and technologies, testing it against the literature for validation and documenting it as much as possible. Anyone is free to contribute to the projects if the proposed changes improve speed, accuracy, and/or scope.
 
 Hope this helps the community! Feel free to email me if you believe a project could be a good addition to the repositories hosted on this profile.
 
