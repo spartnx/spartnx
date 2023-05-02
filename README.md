@@ -1,6 +1,6 @@
 ### Welcome to Tristan's Profile!
 
-As a research scientist with expertise in Optimization, Operations Research (OR) methods, and Astrodynamics, my mission is to leverage my unique multi-disciplinary skillset to advance the domains of in-space logistics and supply chain. I am particularly committed to contribute to the development and growth of the In-space Servicing, Assembly, and Manufacturing (ISAM) and Active Debris Removal (ADR) industries.
+As a research scientist with expertise in Optimization, Operations Research (OR) methods, and Astrodynamics, my mission is to leverage my unique multi-disciplinary skillset to advance the domain of in-space logistics and supply chain. I am particularly committed to contribute to the development and growth of the In-space Servicing, Assembly, and Manufacturing (ISAM) and Active Debris Removal (ADR) industries.
 
 On this GitHub account, I store any piece of code solving problems related to Optimization, OR, and Astrodynamics, whether it be original work or developed from other researchers' work. The focus is specifically given to problems whose solutions can help push the boundaries of Space Logistics.
 
