@@ -18,6 +18,7 @@ Hope this helps the community! Feel free to email me if you believe a project co
 ### Highlighted Repositories
 #### Astrodynamics
 - [pyrqlaw](https://github.com/spartnx/pyrqlaw) - Python implementation of the RQ-law feedback control for low-thrust orbital transfer and rendezvous
+- [py2iopt](https://github.com/spartnx/py2iopt) - Python implementation of optimal two-impulse rendezvous in accordance with Primer Vector Theory.
 
 ### Research Work
 - [ResearchGate](https://www.researchgate.net/profile/Tristan-Sarton-Du-Jonchay)
